@@ -16,7 +16,7 @@ Notes:
 2. Which countries contribute most content?
 3. How has content changed over `release_year` and `date_added`?
 4. What are the top genres (`listed_in`)?
-5. How are ratings related to other attributes (type/genres)?
+5. How do ratings differ by genre??
 
 ## Key Takeaways (high-level)
 - Movies vs TV Shows are close in count (TV Shows slightly higher in this dataset).
